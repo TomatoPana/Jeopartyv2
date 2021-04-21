@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JeopartyV2</string>
+    <string name="txtCategoria1">Categoria 1</string>
+    <string name="btn100">100</string>
+    <string name="btn200">200</string>
+    <string name="btn300">300</string>
+    <string name="btn400">400</string>
+    <string name="btn500">500</string>
+    <string name="btn600">600</string>
+    <string name="txtPuntaje">Puntaje: %d</string>
+</resources>
